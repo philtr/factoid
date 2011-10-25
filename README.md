@@ -1,3 +1,3 @@
-# jQuery Factoid
+# Factoid
 
-Factoid hovers like on [Bing](http://bing.com)
+jQuery plugin for factoid hovers (like on [Bing](http://bing.com)).

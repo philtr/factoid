@@ -1,5 +1,6 @@
 /**
  * Factoid v0.1.0
+ *
  * Factoid hovers like on Bing.com
  * http://phillipridlen.com
  *
